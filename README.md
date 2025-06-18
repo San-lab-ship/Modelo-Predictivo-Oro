@@ -56,15 +56,33 @@ Posteriormente se ajustó con el conjunto de entrenamiento completo (16,860 mues
 
 El modelo **Decision Tree Regressor** proporciona una estimación precisa y confiable en ambas etapas del proceso, incluso frente a datos no vistos, demostrando su potencial para ser aplicado en entornos reales de producción minera.
 
+## Visualizaciones del Análisis
 
-# Tecnologías Utilizadas
+# Concentración Media de Metales
+
+![Concentración Media de Metales](https://github.com/user-attachments/assets/5745e3a2-fc49-4083-ae61-66d0653bf9a8?raw=true)
+
+# Distribución del Tamaño de Partículas de la Alimentación
+
+![Distribución del Tamaño de Partículas](https://github.com/user-attachments/assets/271f0f1f-53b3-462e-b2aa-b7ad156c7772?raw=true)
+
+# Concentración Total de Sustancias en Distintas Etapas
+
+![Concentración Total](https://github.com/user-attachments/assets/c2150530-78ec-4123-b5c7-1c4d4d7a6731?raw=true)
+
+
+
+
+## Tecnologías Utilizadas
 
 - Python 3.10  
+- Google Colab  
+- Jupyter Notebook  
 - Pandas  
 - NumPy  
 - Scikit-learn  
-- Matplotlib / Seaborn  
-- Jupyter Notebook
+- Matplotlib  
+- Seaborn
 
 ---
 
@@ -87,5 +105,12 @@ modelo-predictivo-oro/
 El modelo desarrollado en este proyecto demuestra una alta efectividad para predecir la recuperación de oro en las etapas **rougher** y **final** del proceso de purificación. Luego de comparar múltiples enfoques, el **Árbol de Decisión** se destacó por su precisión y simplicidad, logrando un **sMAPE ponderado final de 15.9722%** al ser evaluado con datos no vistos.
 
 Este desempeño, junto con una preparación rigurosa de los datos y una validación robusta, convierte al modelo en una herramienta confiable para su futura integración en sistemas de monitoreo industrial. Su implementación permitiría **optimizar procesos operativos, reducir pérdidas y mejorar la eficiencia en plantas de procesamiento de minerales**.
+
+
+
+
+
+
+
 
 
