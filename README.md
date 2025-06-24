@@ -105,9 +105,3 @@ modelo-predictivo-oro/
 ├── utils/ # Funciones auxiliares para preprocesamiento, métricas, etc.
 ├── README.md # Este archivo
 └── requirements.txt # Dependencias del proyecto```
-
-
-
-
-
-
