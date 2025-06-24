@@ -102,6 +102,6 @@ modelo-predictivo-oro/
 ├── data/ # Archivos de datos (entrenamiento y prueba)
 ├── notebooks/ # Análisis exploratorio y desarrollo de modelos
 ├── models/ # Modelos entrenados y serializados (opcional)
-├── utils/ # Funciones auxiliares para preprocesamiento, métricas, etc.
+├── utils/ # Funciones auxiliares para preprocesamiento y métricas
 ├── README.md # Este archivo
 └── requirements.txt # Dependencias del proyecto
