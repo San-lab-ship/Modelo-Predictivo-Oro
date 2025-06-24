@@ -86,18 +86,6 @@ El modelo **Decision Tree Regressor** proporciona una estimación precisa y conf
 
 ---
 
-## Estructura del Proyecto
-
-modelo-predictivo-oro/
-│
-├── data/ # Archivos de datos (entrenamiento y prueba)
-├── notebooks/ # Análisis exploratorio y desarrollo de modelos
-├── models/ # Modelos entrenados y serializados (opcional)
-├── utils/ # Funciones auxiliares para preprocesamiento, métricas, etc.
-├── README.md # Este archivo
-└── requirements.txt # Dependencias del proyecto
-
-
 ---
 
 ## Conclusión
@@ -105,6 +93,20 @@ modelo-predictivo-oro/
 El modelo desarrollado en este proyecto demuestra una alta efectividad para predecir la recuperación de oro en las etapas **rougher** y **final** del proceso de purificación. Luego de comparar múltiples enfoques, el **Árbol de Decisión** se destacó por su precisión y simplicidad, logrando un **sMAPE ponderado final de 15.9722%** al ser evaluado con datos no vistos.
 
 Este desempeño, junto con una preparación rigurosa de los datos y una validación robusta, convierte al modelo en una herramienta confiable para su futura integración en sistemas de monitoreo industrial. Su implementación permitiría **optimizar procesos operativos, reducir pérdidas y mejorar la eficiencia en plantas de procesamiento de minerales**.
+
+## Estructura del Proyecto
+
+```modelo-predictivo-oro/
+│
+├── data/ # Archivos de datos (entrenamiento y prueba)
+├── notebooks/ # Análisis exploratorio y desarrollo de modelos
+├── models/ # Modelos entrenados y serializados (opcional)
+├── utils/ # Funciones auxiliares para preprocesamiento, métricas, etc.
+├── README.md # Este archivo
+└── requirements.txt # Dependencias del proyecto```
+
+
+
 
 
 
