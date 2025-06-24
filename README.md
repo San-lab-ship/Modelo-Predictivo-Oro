@@ -104,4 +104,5 @@ modelo-predictivo-oro/
 ├── models/ # Modelos entrenados y serializados (opcional)
 ├── utils/ # Funciones auxiliares para preprocesamiento, métricas, etc.
 ├── README.md # Este archivo
-└── requirements.txt # Dependencias del proyecto```
+└── requirements.txt # Dependencias del proyecto
+```python
