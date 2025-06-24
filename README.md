@@ -96,7 +96,7 @@ Este desempeño, junto con una preparación rigurosa de los datos y una validaci
 
 ## Estructura del Proyecto
 
-```modelo-predictivo-oro/
+``` modelo-predictivo-oro/
 │
 ├── data/ # Archivos de datos (entrenamiento y prueba)
 ├── notebooks/ # Análisis exploratorio y desarrollo de modelos
@@ -104,11 +104,6 @@ Este desempeño, junto con una preparación rigurosa de los datos y una validaci
 ├── utils/ # Funciones auxiliares para preprocesamiento, métricas, etc.
 ├── README.md # Este archivo
 └── requirements.txt # Dependencias del proyecto```
-
-
-
-
-
 
 
 
